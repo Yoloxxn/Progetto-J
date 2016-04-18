@@ -1,0 +1,14 @@
+caffé espresso	0.40
+caffé lungo	0.45
+caffé macchiato	0.50
+cappuccino	0.50
+tè alla menta	0.50
+mocaccino	0.50
+latte	0.40
+latte macchiato	0.45
+cioccolata	0.40
+cioccolata con latte	0.45
+caffé decaffeinato	0.35
+macchiato decaffeinato	0.45
+cappuccino decaffeinato	0.45
+tè al limone	0.25
